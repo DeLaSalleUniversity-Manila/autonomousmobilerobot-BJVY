@@ -1,5 +1,4 @@
-# autonomousmobilerobot-BJVY
-Repository for the Thesis Group of Basco, Jolo, Villoria, and Yambao
+## Repository for the Thesis Group of Basco, Jolo, Villoria, and Yambao
 
 ## Deadlines for Deliverables
 
